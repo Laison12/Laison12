@@ -13,6 +13,7 @@ const FILES_TO_CACHE = [
   "/laison.html",
   "/login.html",
   "/procurar.html",
+  "/offlineHome.html",
   "/main.js",
   "/script.js",
   "/home.css",
