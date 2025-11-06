@@ -21,6 +21,7 @@ const FILES_TO_CACHE = [
   "/icon512.png",
   "/laison.png",
   "/laison2.png",
+  "/vidio.mp4",
   "/chat.png",
   "/editar.png",
   "/enviar.png",
